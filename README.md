@@ -66,7 +66,7 @@ A polished and consistent settings interface following Material Design guideline
 
 ### Screenshot
 
-![Q1 Settings](screenshots/q1_settings.png)
+![Q1 Settings](screenshots/1.png)
 
 ---
 
@@ -109,7 +109,7 @@ Modern profile layout similar to real social applications.
 
 ### Screenshot
 
-![Q2 Profile](screenshots/q2_profile.png)
+![Q2 Profile](screenshots/2.png)
 
 ---
 
@@ -157,7 +157,7 @@ Responsive filtering UI inspired by modern productivity apps.
 
 ### Screenshot
 
-![Q3 Tags](screenshots/q3_tags.png)
+![Q3 Tags](screenshots/3.png)
 
 ---
 
@@ -201,7 +201,7 @@ Adaptive layout similar to professional tablet applications.
 
 ### Screenshot
 
-![Q4 Responsive](screenshots/q4_responsive.png)
+![Q4 Responsive](screenshots/4.png)
 
 
 ---
